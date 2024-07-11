@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sabarishhacker
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning AI
-- 📫 How to reach me instgram,linkedin,gmail - sabarishbugbounty@gmail.com
-- 🔥 I’m good at developing tools/Software for cyber security
+- 📫 How to reach me Instagram, LinkedIn, gmail - sabarishbugbounty@gmail.com
+- 🔥 I’m good at developing tools/Software for cybersecurity
 - ⚡ Fun fact: Hack ---> Code ---> Repeat
-- 💬 Ask me about Bugbounty , web Security, Malware
+- 💬 Ask me about Bugbounty, web Security, Malware
 
 
 <!---
